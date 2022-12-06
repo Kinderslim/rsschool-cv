@@ -8,7 +8,7 @@
 * E-mail: *Andreivsurvey@gmail.com*
 * Phone: *+79241184321*
 * Telegram: *@Kinderslim*
-* Discord: *Kinderslim(@Kinderslim)*
+* Discord: *Andrei Vashchenko(@Kinderslim)*
 ---
 ## About:
 ###### I am a person who wants to change himself first and then the world. I like to solve difficult problems and enjoy the solution. I am an executive and team player. I look forward to learning a new profession.
