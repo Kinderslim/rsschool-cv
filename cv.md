@@ -2,16 +2,15 @@
 # **ANDREI VASHCHENKO**
 ---
 ## Location: 
-###### Khabarovsk, Russia
+#### Khabarovsk, Russia
 ---
 ## Contacts:
 * E-mail: *Andreivsurvey@gmail.com*
 * Phone: *+79241184321*
 * Telegram: *@Kinderslim*
-* Discord: *Andrei Vashchenko(@Kinderslim)*
 ---
 ## About:
-###### I am a person who wants to change himself first and then the world. I like to solve difficult problems and enjoy the solution. I am an executive and team player. I look forward to learning a new profession.
+#### I am a person who wants to change himself first and then the world. I like to solve difficult problems and enjoy the solution. I am an executive and team player. I look forward to learning a new profession.
 ---
 ## Skills:
 * HTML, CSS
@@ -20,15 +19,15 @@
 * VSCode
 ---
 ## Code example:
-    ''' <div align="center">
+    <div align="center">
         <p><em>1st edition</em></p>
         <p><em>by Holly Hughes<br>with Larry West</em></p>
         <img src="wiley.png">
         <p>Wiley Publishing, Inc.</p>
-    </div> '''
+    </div>
 ---
 ## Work experience:
-###### More than 10 years experience as land surveyor.
+#### More than 10 years experience as land surveyor.
 ---
 ## Education:
 * Far-Eastern Technical School of Geodesy and Cartography
