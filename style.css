@@ -31,7 +31,7 @@ main {
 .header {
     background-color: rgb(182, 130, 130);
     min-height: 200px;
-    }
+}
 
 .container {
     max-width: 500px;
